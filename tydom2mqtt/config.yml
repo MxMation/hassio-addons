@@ -5,7 +5,7 @@ name: mxmation
 image: ghcr.io/mxmation/tydom2mqtt
 version: 3.6.0
 slug: tydom2mqtt
-description: Deltadore Tydom to MQTT Bridge
+description: Deltadore Tydom to MQTT Bridge - Mx Fork
 arch:
   - armhf
   - armv7
